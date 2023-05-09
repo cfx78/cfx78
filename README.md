@@ -9,8 +9,8 @@ I have been learning to code for over a year with the goal of a career change in
 *   🌍  I'm based in Memphis,TN
 *   🖥️  See my portfolio at [cfx-789](http://cfx-789.netlify.app)
 *   ✉️  You can contact me at [cortez.foxx@gmail.com](mailto:cortez.foxx@gmail.com)
-*   🚀  I'm currently working on [Real Muziq Website](http://rmg-test.netlify.app)
-*   🧠  I'm learning NextJS### Skills 
+*   🚀  I'm currently working on [random reviews](https://random-reviews-blog.vercel.app/)
+*   🧠  I'm learning NextJS and Typescript 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
